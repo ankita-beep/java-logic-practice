@@ -7,9 +7,9 @@ public class StringBasic {
         String name = "Ankita";
         System.out.println(name);
         System.out.println(name.length());
-<<<<<<< HEAD
+
     }
-=======
+
     
 }
 
@@ -17,5 +17,5 @@ public class StringBasic {
 >>>>>>> 72268b491f9e820b3a826b0b6f9f27e63025b9a5
 }
 
-    
 
+    
